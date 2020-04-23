@@ -1,3 +1,13 @@
+# Daily Trump Quotes
+
+See the web app here - [Daily Trump Quotes](https://daily-trump-quotes.netlify.app/)
+
+This web app uses this [Donald Trump API](https://api.tronalddump.io/) 
+The web app is based off of the Donald Trump API webpage (same icon, general formatting, etc.). This is a simple project meant to help me learn how to use the React framework.
+
+When you go to the Daily Trump Quotes web app, you'll see a randomly generated quote from Donald Trump's Twitter, as well as recently used hashtags on his Twitter account. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
